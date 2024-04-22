@@ -37,12 +37,12 @@ crie um seletor para a classe .cabecalho-lista-item, adicionando nele a propieda
     color:aliceblue; /*cor*/
 }
 
-/efeito alterara a cor quando passa o mouse/
+/*efeito alterara a cor quando passa o mouse*/
 a:houver{
     color:blue;
 }
 
-/efeito alterar a cor quando clicar com o mouse/
+/*efeito alterar a cor quando clicar com o mouse*/
 a:active{
     color:cyan(105,144,216 );
 }
@@ -80,7 +80,7 @@ a:active{
 
 /**/
 p{
-    padding: 0 40px;/alinhar o espaçamento/
-    font-size: 20px:/tamanho da fonte/
-    font-family: arial, helvetica, sans-serif;/especifica a fonte de um elemento/
+    padding: 0 40px;/*alinhar o espaçamento*/
+    font-size: 20px:/*tamanho da fonte*/
+    font-family: arial, helvetica, sans-serif;/*especifica a fonte de um elemento*/
 }
