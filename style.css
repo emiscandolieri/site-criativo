@@ -52,7 +52,7 @@ a:active{
 
 /*crie um seletor(.) para a classe escola-imagem, determinando uma largura width de 25%:*/
 .escola-imagem{
-    width:25;/*largura*/
+    width:25%;/*largura*/
     height:300px;/*altura*/
     border-radius: 82px;/*para definirbordas arredondadas da imagem*/
 }
