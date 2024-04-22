@@ -17,7 +17,7 @@
 
 .cabecalho-imagem{
     width: 8%;
-    border-radius: 22px; /para definir bordas arredondadas na imagem/
+    border-radius: 22px; /*para definir bordas arredondadas na imagem*/
 }
 
 /*a lista não ordenada ul precisa estar alinhada em uma única linha.
