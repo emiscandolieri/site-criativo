@@ -1,9 +1,9 @@
-/Adicionar as propirdades margin e padding no seletor universal (asterisco)/
+/*Adicionar as propirdades margin e padding no seletor universal (asterisco)*/
 *{
     margin: 0;
     padding: 0;
 }
-/iniciar seção cabeçalho/
+/*iniciar seção cabeçalho*/
 
 .cabecalho{
     background-color: blueviolet;
@@ -22,8 +22,8 @@
 
 /*a lista não ordenada ul precisa estar alinhada em uma única linha.
 crie um seletor para a classe .cabecalho-lista-item, adicionando nele a propiedade display com o valor inline;*/
-/aumente os espaçamentos entre os textos com a propiedade margin de valor 0 16x:/
-/aumente a fonte através da propiedade font-size de valor 24px./
+/*aumente os espaçamentos entre os textos com a propiedade margin de valor 0 16x:*/
+/*aumente a fonte através da propiedade font-size de valor 24px.*/
 
 
 .cabecalho-lista-item {
@@ -48,7 +48,7 @@ a:active{
 }
 
 
-/iniciar seção escola/
+/*iniciar seção escola*/
 
 /*crie um seletor(.) para a classe escola-imagem, determinando uma largura width de 25%:*/
 .escola-imagem{
